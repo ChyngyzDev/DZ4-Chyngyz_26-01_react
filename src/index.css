@@ -1,0 +1,51 @@
+html {
+  background-color: #985ACE;
+  background-blend-mode: overlay;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+body {
+  background-color: transparent;
+}
+.registration-cssave {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  gap: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 40px;
+  padding-right: 10px;
+}
+
+.text1 {
+  display: block;
+  margin-bottom: 30px;
+  
+}
+
+.block2 {
+  margin-top: 15px;
+}
+
+.btn {
+  width: 170px;
+  height: 40px;
+  left: 0px;
+  top: 0px;
+  background: #985ACE;
+  border-radius: 7px;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
